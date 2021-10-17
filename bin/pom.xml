@@ -27,21 +27,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		
-		
-		<!-- https://mvnrepository.com/artifact/com.amazonaws/amazon-kinesis-producer -->
-		<dependency>
-		    <groupId>com.amazonaws</groupId>
-		    <artifactId>amazon-kinesis-producer</artifactId>
-		    <version>0.14.9</version>
-		</dependency>
-		
-		<dependency>
-		    <groupId>com.github.json-template</groupId>
-		    <artifactId>jsontemplate</artifactId>
-		    <version>0.2.1</version>
-		</dependency>
-		
 	</dependencies>
 
 	<build>
